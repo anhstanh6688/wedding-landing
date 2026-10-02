@@ -19,6 +19,7 @@ dist-ssr
 # Local tools & workspace
 .bin/
 .workspace/
+.vercel/
 
 # Wrangler / Cloudflare
 .wrangler/
